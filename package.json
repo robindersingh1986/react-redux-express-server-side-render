@@ -1,7 +1,7 @@
 {
-  "name": "react-express-server-side-render",
+  "name": "react-redux-express-server-side-render",
   "version": "1.0.0",
-  "description": "react-express-server-side-render",
+  "description": "react-redux-express-server-side-render",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/robindersingh1986/react-express-server-side-render.git"
+    "url": "https://github.com/robindersingh1986/react-redux-express-server-side-render.git"
   },
   "keywords": [
     "React",
